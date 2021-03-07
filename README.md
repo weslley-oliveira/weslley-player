@@ -10,7 +10,7 @@ My first player using Spotify API
 - Spotify API
 - Responsive design
 - Material UI
-- React COntext API ( like ReDUX)
+- React Context API ( like ReDUX)
 - Modern tech
 - React hooks functional ( hooks , state)
 - Entire React tech stack
@@ -34,9 +34,11 @@ My first player using Spotify API
 2. Redirect to SPOTIfY login page
 3. Redirect to home page once logged in 
 
-
+// rfce - good command to be fast 
 
 
 [ ] 1498.25 mandar Igor
+
+
 
 
