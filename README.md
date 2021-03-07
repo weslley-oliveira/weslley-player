@@ -23,7 +23,6 @@ My first player using Spotify API
 2. https://firebase.google.com/
 
 3. https://developer.spotify.com/
-    Client ID f0edd7a38f7b4ae6bd9b21d0bd0928f9
 
 4. Clean react-creat-app
 
