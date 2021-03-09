@@ -37,8 +37,4 @@ My first player using Spotify API
 // rfce - good command to be fast 
 
 
-[ ] 1498.25 mandar Igor
-
-
-
 
